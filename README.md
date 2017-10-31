@@ -17,5 +17,5 @@ repository.
 
 [website]: http://lhcb.github.io/analysis-essentials/
 [starterkit]: https://lhcb.github.io/starterkit/
-[contributing]: CONTRIBUTING.md
+[contributing]: (./CONTRIBUTING.md)
 [issues]: https://github.com/lhcb/analysis-essentials/issues
